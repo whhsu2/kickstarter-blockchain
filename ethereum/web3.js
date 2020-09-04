@@ -8,7 +8,6 @@ if (typeof window !== 'undefined' && typeof window.web3 !== 'undefined') {
     const provider = new Web3.providers.HttpProvider(
         'https://rinkeby.infura.io/v3/8e127b9739b3451faced24b104811ca4'
     )
-
     web3 = new Web3(provider)
 }
 
