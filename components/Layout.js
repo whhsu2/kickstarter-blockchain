@@ -14,7 +14,6 @@ export default (props) => {
             </Head>
             <Header />
             {props.children}
-            <h1>I'm the footer bitch</h1>
         </Container>
     )
 }
