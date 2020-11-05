@@ -6,7 +6,7 @@ This is a decentralized Kickstarter built on Ethereum. The current kickstarter r
 
 ## Use Cases
 
-Create a campaign for users to donate ethereum to. 
+Create a campaign for users to donate ethereum to. You can set the minimum amount for donations. Only people who have donated can be approvers of the campaign.
 
 ## Requirements
 
