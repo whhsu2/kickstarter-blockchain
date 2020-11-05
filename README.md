@@ -13,7 +13,7 @@ Create a campaign for users to donate ethereum to. You can set the minimum amoun
 This project connects to the Ethereum test net Rinkeby. And interacts with Rinkey via Infura. 
 Download MetaMask Chrome Extension ([link](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)) and create an account. 
 
-Replace my web3 12 word seed with yours. ( Mine has no ethereum stored in it, it was purely used for this development )
+Replace my web3 12 word seed with yours. ( Mine has no ethereum stored in it, it was purely used for this development :slightly_smiling_face: )
 
 ## How do I run it
 
